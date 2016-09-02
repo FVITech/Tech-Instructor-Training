@@ -24,6 +24,8 @@ This repository is organized by topics and will be developed incrementally:
 4. If there is a holiday on a given week (eg. 4th of July), this means your hours will come down to 20 rather than 25. In other words, part time instructors don't have paid holidays.
 5. You are **required** to develop at least two formative assessments and two summative assessments per three-week unit and submit these to your program director. Further details on developing effective assessments will be under the [pedagogical training](pedagogy.md) section of this document.
 6. FVI has monthly and quarterly luncheons where we share the progress we are making towards accomplishing our goal and vision of making high quality careers accessible to everyone regardless of income level or heritage. You are *strongly encouraged* to attend.
+7. If a student is late 4x in a row or misses 2x in a week, the instructor is responsible for filling out a student advising form, documenting the fact that the student is in danger of failing the course and documenting the steps that the student will commit to take in order to catch up.
+8. If a student fails the first exam in a unit, the instructor is responsible for filling out a student advising form.
 
 #Job Scorecard
 Your periodic performance reviews will be based on two aspects. First, you will be reviewed based on how you fit FVI's core values, then you will be held accountable to the attainment of a specific level of pedagogical proficiency and execution defined in your job scorecard.
