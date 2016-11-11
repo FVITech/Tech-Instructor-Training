@@ -58,6 +58,8 @@ True mastery takes between 5 to 15 thousand hours, depending on innate ability. 
 
 And thus, our focus must be on job market value. We need to aim for mastering one way of doing things in the web, not being fluent with all possible workflows. We need to get our students to the point where if they become employed, they're going to sit down and produce much faster than an average bachelor's degree holder who needs to watch 10 hours of udemy per feature they implement because they don't know shit about anything in full stack development. We need to focus on productivity and understanding of concepts, not on knowing every little shitty npm package like lodash or every little bit of useless syntax that doesn't actually enable you to do anything new.
 
+More details pertaining to the reasoning behind and methodology we follow can be understood by reading the [document about attaining peak performance](peak.md)
+
 #Bloom's Taxonomy of Learning Domains
 
 Bloom's Taxonomy of learning domains refers to the steps that students must go through before mastering a concept. The first, most elementary level of learning is being able to regurgitate factoids. Then comes the ability to paraphrase, then apply the knowledge in a slightly different context, and so on. At the end, the last step in the ladder is having understanding so profound that you can make value judgments about which techniques might be better than which others in which situations.
