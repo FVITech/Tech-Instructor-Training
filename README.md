@@ -52,24 +52,24 @@ Your periodic performance reviews will be based on two aspects. First, you will 
       * Difficulty level being attuned to student skill (your program director may conduct student interviews where he/she gauges whether the student understands his/her portfolio or he/she just followed it along like a udemy tutorial).  
 
 3. Document, expand, and execute lesson plans. Your curriculum should be an ever expanding and evolving repository of formative assessments, resources (videos, slide presentations, etc), and summative assessments. Your lesson plans should be well documented and given to students at the start of each course. You may see examples of the level of detail a lesson plan should have in the WEB2010 Repository. This criterion will be judged on:  
-  * How well did you execute the curriculum?  
-  * How many teaching methods did you use throughout the unit? Acceptable teaching methods/tools include but are not limited to the following:  
-    * Formative assessments  
-    * Summative assessments  
-    * Curated videos  
-    * Curated exercises  
-    * Guided projects  
-    * Unguided projects  
-    * Differentiated projects (higher complexity for better students)  
-    * Individually guided projects  
-    * Homeworks  
-  * The **most** important criterion in judging the success of lesson plan execution is whether the level of proficiency of the student matches the letter grade outcome of the course. In particular, the following things are **absolutely unacceptable**:
-    * A student who did no homework and doesn't already have a CS bachelors getting an A for a class (it is understandable to not want to bore a bachelors-degree holder with introductory busywork)  
-    * A student who misses 3+ days in the unit getting an A  
-    * A student with poor command of the assessed material getting an A or B  
+    * How well did you execute the curriculum?  
+    * How many teaching methods did you use throughout the unit? Acceptable teaching methods/tools include but are not limited to the following:  
+      * Formative assessments  
+      * Summative assessments  
+      * Curated videos  
+      * Curated exercises  
+      * Guided projects  
+      * Unguided projects  
+      * Differentiated projects (higher complexity for better students)  
+      * Individually guided projects  
+      * Homeworks  
+    * The **most** important criterion in judging the success of lesson plan execution is whether the level of proficiency of the student matches the letter grade outcome of the course. In particular, the following things are **absolutely unacceptable**:
+      * A student who did no homework and doesn't already have a CS bachelors getting an A for a class (it is understandable to not want to bore a bachelors-degree holder with introductory busywork)  
+      * A student who misses 3+ days in the unit getting an A  
+      * A student with poor command of the assessed material getting an A or B  
 4. Iteratively develop curriculum. Besides constantly adding new teaching tools to assist in the enhancement of an already-defined curriculum, it is your responsibility to stay abreast with topics in the industry and suggest enhancements to the material and curriculum we present to our students. Your curriculum development will be judged in terms of:  
-  1. Relevancy to the South Florida job market  
-  2. Relevancy to our student demographic and the program objectives (don't be teaching clojure or R in the Web Developer program, don't teach data center fabric deployment automation in the IT program)  
-  3. How the portfolio items of your curriculum stack up against those in the previous curriculum iteration  
-  4. Thoughtfulness of the iteration: completely tossing a curriculum  is frowned upon. A measured, patient and step-wise approach is strongly recommended.  
-  5. Not creating unnecessary cognitive load. Again, teaching things that our students are unlikely to use creates a learning burden that we do not easily accept.  
+    * Relevancy to the South Florida job market  
+    * Relevancy to our student demographic and the program objectives (don't be teaching clojure or R in the Web Developer program, don't teach data center fabric deployment automation in the IT program)  
+    * How the portfolio items of your curriculum stack up against those in the previous curriculum iteration  
+    * Thoughtfulness of the iteration: completely tossing a curriculum  is frowned upon. A measured, patient and step-wise approach is strongly recommended.  
+    * Not creating unnecessary cognitive load. Again, teaching things that our students are unlikely to use creates a learning burden that we do not easily accept.  
