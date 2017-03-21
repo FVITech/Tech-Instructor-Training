@@ -6,9 +6,9 @@ This repository is organized by topics and will be developed incrementally:
 2. [Pedagogical training](pedagogy.md)
 3. [Grading Policies](grading.md)
 
-#General procedures
+# General procedures
 
-##Initial on-boarding requirements
+## Initial on-boarding requirements
 
 1. Requirements to complete before you teach your first class:
   1. Complete a classroom observation
@@ -17,7 +17,7 @@ This repository is organized by topics and will be developed incrementally:
   4. Complete the [online instructor training](https://github.com/FVITech/General-Procedures-Tooling/blob/master/onboarding.md)
 2. Ensure the business office has a current copy of your transcripts, professional credentials, resume, notarized CIE form, and any other paperwork they might need within 30 days of your start date.
 
-##On-Going Job requirements
+## On-Going Job requirements
 1. Upon first starting all instructors will be paid hourly. As a technology instructor your allotted weekly workload is 25 hours, of which 20 hours are classroom time. You shouldn't have to clock in or out.
 2. **You must approve your hours for the week every Friday.**  Your program director will do his/her best to remind you of this during weekly faculty meetings but it is ultimately your responsibility. In order to approve your hours, you must visit this page http://webclock.biz/prod/FLV01/home.cfm and use the employee number and PIN provided by the business office.
 3. Instructors teaching the night class: If you leave even 4 seconds after 10:30pm, it is **your responsibility** to ensure that **all doors to FVI are locked.** Our institution **incurs monetary fines** for leaving the doors open overnight and it is of utmost importance that we all show consideration for this and do our best to prevent this from happening.
@@ -27,10 +27,10 @@ This repository is organized by topics and will be developed incrementally:
 7. If a student is late 4x in a row or misses 2x in a week, the instructor is responsible for filling out a student advising form, documenting the fact that the student is in danger of failing the course and documenting the steps that the student will commit to take in order to catch up.
 8. If a student fails the first exam in a unit, the instructor is responsible for filling out a student advising form.
 
-#Job Scorecard
+# Job Scorecard
 Your periodic performance reviews will be based on two aspects. First, you will be reviewed based on how you fit FVI's core values, then you will be held accountable to the attainment of a specific level of pedagogical proficiency and execution defined in your job scorecard.
 
-##Core Values
+## Core Values
 1. Self Starter. Do you tackle and solve problems on your own and do what it takes in order to maximize student learning? Do you constantly improve yourself and your curriculum and add new teaching methods and materials every time you teach a class?  
 2. Accountability for task completion. Do you complete tasks as instructed and if not are you able to constructively be held accountable?
 3. Develop individuals to their highest level of aspiration. Do you foster an environment of self betterment amongst our students? Do you embody an image of perpetual self-betterment?  
@@ -38,7 +38,7 @@ Your periodic performance reviews will be based on two aspects. First, you will 
 5. Exceed expectations: Self explanatory. Don't be lazy and don't leave our student experience half finished.  
 6. Giving back to the community, including our students.  
 
-##Job Scorecard
+## Job Scorecard
 1. Ensure 80% attendance. You must keep students engaged and motivated enough to come to class. You may use attendance as a "weapon" to help motivate students only to the degree prescribed in the [Grading guidelines](grading.md).
 2. Ensure portfolio/project completion. This category is multifaceted:
   1. You must help students develop high quality portfolio items they can showcase. In the case of infrastructure instructors, half of your portfolio development duties will consist on preparing students for certifications.
