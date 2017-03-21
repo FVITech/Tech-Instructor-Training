@@ -1,10 +1,10 @@
-#Attaining Peak performance
+# Attaining Peak performance
 
-##Summary
+## Summary
 
 This document will summarize the book "Peak, Secrets From the new Science of Expertise." The purpose of such a summary is for our faculty members to each attain an understanding of the ground-level principles that enable peak performance so that they may use such knowledge to develop an effective teaching style that focuses on enabling students to attain mastery. Each instructor, like each coder, has natural strengths and weaknesses and therefore must tweak the general guidelines herein presented to match their own preferred approach.
 
-##Chapter 1: Introducing practice
+## Chapter 1: Introducing practice
 
 For a long time throughout history, we have known about this ability of a "perfect pitch." About one in 10,000 people have the ability to accurately recognize the pitch of any note that is played in a musical instrument. You can blindfold these people and then hit a random key on the piano and they will tell you exactly which musical note it was.
 
@@ -51,7 +51,7 @@ In summary, purposeful practice can be characterized by:
 * The student must have a way to monitor progress (that's our jobs, and the huge importance of tests and timely feedback)
 * The student must be able to maintain motivation  
 
-###Limits of Purposeful practice
+### Limits of Purposeful practice
 
 Going back to the digit memorization experiment with Steve, there was another girl who was recruited to this experiment. Although she quickly improved in the beginning, her progress stalled at around 20 numbers for so long that she gave up. Upon analyzing the mental maps and mnemonics that she formed for the purposes of memorization, researchers found that they were all random. She used times of the day and stuff like that. Conversely, Steve, who was able to improve to 82 numbers, used patterns and numbers already in his long term memory. For instance, if he hear the number 907, he would think of that as "a pretty good 2 mile time," rather than something he didn't already have a mental schema for, such as "9:07 am." If he heard the number 400 he would instantly think of "the mythical 4 minute mile."
 
@@ -62,7 +62,7 @@ When practicing towards the improvement of cognitive tasks, the goal should be t
 Purposeful practice therefore doesn't tell the whole story. One of the elements that's missing from purposeful practice is what separates it from deliberate practice, which is the subject of the next portion of the book.
 
 
-##Chapter 2: the adaptations to practice
+## Chapter 2: the adaptations to practice
 
 This chapter starts by telling the reader about London and how complicated navigating this city is. It's such an old city it has no structure or grid system. London cab drivers have to be extremely good at navigating, and in fact you're not allowed to become a cabbie in London unless you can pass some ridiculously difficult test where they ask you stuff like "How do you get from place x to the place that has a 1-foot-tall statue of a mouse with cheese?" Therefore, it requires much special mental ability for spatial reasoning and memory to be a cab driver in London. They've researched the brains of London cab drivers and the evidence is extremely strong that London cab drivers start out as normal people but all the navigation training and memorization they do increases the size of their hippocampus in order to enable them to have extraordinary navigation skills.
 
@@ -90,7 +90,7 @@ Some important bulletpoints about cerebral adaptation:
 
 Most people live in the area of "good enough." They learn a little bit about some job, enough to not get fired, and stay at that skill level forever. This is largely due to laziness but also to a lack of growth mindset, where people think talent is fixed and once their skill level naturally plateaus, there's little they can do about it. Purposeful and deliberate practice are instruments we can use in order to *increase our talent* at particular pursuits. What characterizes deliberate practice is the subject of the next few chapters.
 
-##Chapter 3: Mental Representations
+## Chapter 3: Mental Representations
 
 This chapter starts out talking about blindfolded chess and what it can teach us about purposeful practice. One lesson I took, which wasn't really stated in the book, was that our individual practice regimes yield some "side effects." Alexander Alekhine is a widely regarded top 10 chess players of all time and the best blindfolded chess player, and he got there by practicing and practicing. Yet, he never actually practiced blindfolded chess. Instead, he just practiced in his mind's eye, while at school or doing other things. This was what lead him to be so good at blindfolded chess. Thus, the techniques you become good at using will have different positive (and sometimes negative) side effects, such as developing related abilities to a lesser or greater degree.
 
@@ -148,7 +148,7 @@ Beginner musicians have mental representations of the notes and rhythm, while mo
 
 Honing the skill improves mental representation and an improved mental representation helps hone the skill. You work up to a big skill bit by bit, slowly improving mental representation so you can get closer to it. The less "gifted" you are in quickly developing accurate mental representations, the more coaching you will need if you want to actually improve.
 
-##Chapter 4: Deliberate Practice
+## Chapter 4: Deliberate Practice
 
 Violinists and ballet dancers have shown that there is a huge correlation between hours spent practicing and skill attained. The Violinists study that Erickson did was the one that is often misquoted by people as it relates to the "10,000 hour rule." 10k hours was the amount of practice that the students had amassed BEFORE starting their higher ed studies in violin. Mastery is completely dependent on how well-established the field is. In a centuries-old field like music, the number is more around the realm of 30k-40k hours.
 
@@ -179,7 +179,7 @@ Whenever, possible, however, if a field qualifies for deliberate practice, one s
 
 A word of warning on the 10,000 hour rule: it's bullshit. You can be a top performer in a given field in under 1,000 just by being the first one to get competitive about it (eg. digit memorization a few years ago), or it can take 30,000+ hours to be a top level performer in well-established fields like classical music. There is also no real evidence to suggest that *anyone* who engages in x hours of practice will attain at least y level of performance.
 
-##Chapter 5: Practice on the job
+## Chapter 5: Practice on the job
 
 This chapter starts by giving an account of the methods and results that characterized the Top Gun school of US Navy pilots. Before the Navy started the program, their fighters were shooting down 2 plates per each one they lost. After one year of this training, US navy pilots got to the point where the ratio of us planes shot down was 1 per each 10 Vietnamese planes. Later on in the gulf war, the us forces had an outcome of 33 to 1 in air battles, perhaps the most dominant performance in combat aviation history.
 
