@@ -39,7 +39,10 @@ Your periodic performance reviews will be based on two aspects. First, you will 
 6. Giving back to the community, including our students.  
 
 ## Job Scorecard
-1. Ensure 80% attendance. You must keep students engaged and motivated enough to come to class. You may use attendance as a "weapon" to help motivate students only to the degree prescribed in the [Grading guidelines](grading.md).  
+1. Ensure 80% attendance. You must keep students engaged and motivated enough to come to class. You may use attendance as a "weapon" to help motivate students only to the degree prescribed in the [Grading guidelines](grading.md). Various classroom duties fall under this category:  
+    * Being prepared for class
+    * Starting class on time
+    * Keeping students on task - guiding them constantly rather than letting them roam too freely
 
 2. Ensure portfolio/project completion. This category is multifaceted:
     * You must help students develop high quality portfolio items they can showcase. In the case of infrastructure instructors, half of your portfolio development duties will consist on preparing students for certifications.  
