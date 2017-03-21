@@ -39,35 +39,37 @@ Your periodic performance reviews will be based on two aspects. First, you will 
 6. Giving back to the community, including our students.  
 
 ## Job Scorecard
-1. Ensure 80% attendance. You must keep students engaged and motivated enough to come to class. You may use attendance as a "weapon" to help motivate students only to the degree prescribed in the [Grading guidelines](grading.md).
+1. Ensure 80% attendance. You must keep students engaged and motivated enough to come to class. You may use attendance as a "weapon" to help motivate students only to the degree prescribed in the [Grading guidelines](grading.md).  
+
 2. Ensure portfolio/project completion. This category is multifaceted:
-  1. You must help students develop high quality portfolio items they can showcase. In the case of infrastructure instructors, half of your portfolio development duties will consist on preparing students for certifications.
-  2. The portfolio items you develop should be refined overtime. You must strive to help students produce at least one portfolio-worthy item per three-week course. The quality of your portfolio items will be judged on how well they illustrate the stated learning objective of the course (Angular, CSS, Networking, etc) plus at least one of the following concepts:
-    1. Effective design and implementation of markup (WD)
-    2. Interaction with APIs (WD)
-    3. Programmatic DOM manipulation (WD)
-    4. Resale ability for the student (both programs)
-    5. Relevancy to certification (IT)
-    6. Difficulty level being attuned to student skill (your program director may conduct student interviews where he/she gauges whether the student understands his/her portfolio or he/she just followed it along like a udemy tutorial).
-3. Document, expand, and execute lesson plans. Your curriculum should be an ever expanding and evolving repository of formative assessments, resources (videos, slide presentations, etc), and summative assessments. Your lesson plans should be well documented and given to students at the start of each course. You may see examples of the level of detail a lesson plan should have in the WEB2010 Repository. This criterion will be judged on:
-  1. How well did you execute the curriculum?
-  2. How many teaching methods did you use throughout the unit? Acceptable teaching methods/tools include but are not limited to the following:
-    1. Formative assessments
-    2. Summative assessments
-    3. Curated videos
-    4. Curated exercises
-    5. Guided projects
-    6. Unguided projects
-    7. Differentiated projects (higher complexity for better students)
-    8. Individually guided projects
-    9. Homeworks
+  * You must help students develop high quality portfolio items they can showcase. In the case of infrastructure instructors, half of your portfolio development duties will consist on preparing students for certifications.  
+  * The portfolio items you develop should be refined overtime. You must strive to help students produce at least one portfolio-worthy item per three-week course. The quality of your portfolio items will be judged on how well they illustrate the stated learning objective of the course (Angular, CSS, Networking, etc) plus at least one of the following concepts:  
+    * Effective design and implementation of markup (WD)  
+    * Interaction with APIs (WD)  
+    * Programmatic DOM manipulation (WD)  
+    * Resale ability for the student (both programs)  
+    * Relevancy to certification (IT)  
+    * Difficulty level being attuned to student skill (your program director may conduct student interviews where he/she gauges whether the student understands his/her portfolio or he/she just followed it along like a udemy tutorial).  
+
+3. Document, expand, and execute lesson plans. Your curriculum should be an ever expanding and evolving repository of formative assessments, resources (videos, slide presentations, etc), and summative assessments. Your lesson plans should be well documented and given to students at the start of each course. You may see examples of the level of detail a lesson plan should have in the WEB2010 Repository. This criterion will be judged on:  
+  1. How well did you execute the curriculum?  
+  2. How many teaching methods did you use throughout the unit? Acceptable teaching methods/tools include but are not limited to the following:  
+    1. Formative assessments  
+    2. Summative assessments  
+    3. Curated videos  
+    4. Curated exercises  
+    5. Guided projects  
+    6. Unguided projects  
+    7. Differentiated projects (higher complexity for better students)  
+    8. Individually guided projects  
+    9. Homeworks  
   3. The **most** important criterion in judging the success of lesson plan execution is whether the level of proficiency of the student matches the letter grade outcome of the course. In particular, the following things are **absolutely unacceptable**:
-    1. A student who did no homework and doesn't already have a CS bachelors getting an A for a class (it is understandable to not want to bore a bachelors-degree holder with introductory busywork)
-    2. A student who misses 3+ days in the unit getting an A
-    3. A student with poor command of the assessed material getting an A or B
-4. Iteratively develop curriculum. Besides constantly adding new teaching tools to assist in the enhancement of an already-defined curriculum, it is your responsibility to stay abreast with topics in the industry and suggest enhancements to the material and curriculum we present to our students. Your curriculum development will be judged in terms of:
-  1. Relevancy to the South Florida job market
-  2. Relevancy to our student demographic and the program objectives (don't be teaching clojure or R in the Web Developer program, don't teach data center fabric deployment automation in the IT program)
-  3. How the portfolio items of your curriculum stack up against those in the previous curriculum iteration
-  4. Thoughtfulness of the iteration: completely tossing a curriculum  is frowned upon. A measured, patient and step-wise approach is strongly recommended.
-  5. Not creating unnecessary cognitive load. Again, teaching things that our students are unlikely to use creates a learning burden that we do not easily accept.
+    1. A student who did no homework and doesn't already have a CS bachelors getting an A for a class (it is understandable to not want to bore a bachelors-degree holder with introductory busywork)  
+    2. A student who misses 3+ days in the unit getting an A  
+    3. A student with poor command of the assessed material getting an A or B  
+4. Iteratively develop curriculum. Besides constantly adding new teaching tools to assist in the enhancement of an already-defined curriculum, it is your responsibility to stay abreast with topics in the industry and suggest enhancements to the material and curriculum we present to our students. Your curriculum development will be judged in terms of:  
+  1. Relevancy to the South Florida job market  
+  2. Relevancy to our student demographic and the program objectives (don't be teaching clojure or R in the Web Developer program, don't teach data center fabric deployment automation in the IT program)  
+  3. How the portfolio items of your curriculum stack up against those in the previous curriculum iteration  
+  4. Thoughtfulness of the iteration: completely tossing a curriculum  is frowned upon. A measured, patient and step-wise approach is strongly recommended.  
+  5. Not creating unnecessary cognitive load. Again, teaching things that our students are unlikely to use creates a learning burden that we do not easily accept.  
