@@ -1,6 +1,6 @@
-#FVI's Pedagogical Philosophy
+# FVI's Pedagogical Philosophy
 
-##Introduction
+## Introduction
 
 Our pedagogical approach is heavily research-based. Although at times we criticize Universities and their ivory tower mentality, it is undeniable that research universities are the cornerstone of Science and scientific advancement. It is, therefore, twice ironic that universities produce all this pedagogical science that they don't apply, and that we at FVI can use to our advantage to nurture our students to achieve higher mastery than a university ever could, all other things being equal (same students, same time investment).
 
@@ -16,7 +16,7 @@ Inquiry-Based Teaching*. [Full Text](https://docs.google.com/document/d/1UUZRivc
 * Lister, *After the Gold Rush: Toward Sustainable Scholarship in Computing*. [full text](http://crpit.com/confpapers/CRPITV78Lister.pdf)
 * Duckworth, Angela. *Grit*
 
-##The Goal of Teaching Anything
+## The Goal of Teaching Anything
 
 The goal of teaching anything should be to affect long term memory. Without affecting long term memory, no meaningful increase in skill is being accomplished. This is as close to a **fact** as we can get. All mastery comes from long term memory. This notion often generates cognitive dissonance because it's a trendy topic to discard memorization in favor of "critical thinking." It is our view, and the currently accepted notion in academia that critical thinking itself is based on long term memory.
 
@@ -26,17 +26,17 @@ The crux of mastery in any field is therefore twofold: memorize atomic solutions
 
 As it pertains to writing software, it is my opinion that there is one more requirement: the ability to scaffold multiple tiers of this problem-pattern ability. It is commonly said that the ability to "break down larger problems into smaller ones" is the crux of programming. I feel a better way to state this is you build up smaller problem-solution-pattern sets into larger ones. This is in line with the concept of "chunking" as it pertains to the study of memory. To give an example, a student may start by memorizing solutions to relatively small problems, such as traversing an array and building variables from other variables. Then, the student might build on this and memorize the pattern to build an aggregate value out of all values in an array. Then, the student might build on this by building an array of all values which fit a certain criterion. Simultaneously, the student might have built patterns for what an expressJS route is and how it may send back a simple string. **By steadily incorporating well known atomic patterns, the student will build progressively larger problem solutions schemas into their memory, until they reach a level where they have, fully in memory, very lengthy and complex patterns** such as a CRUD API and an Angular service that consumes it. This is the essence of mastery; this is the outcome we should (arguably) seek for ourselves as developers, and certainly this is the outcome we seek to coach our students to in FVI.
 
-#How Memory Works
+# How Memory Works
 
 Memory is simple to understand. In order for things to be committed to long term memory, they need to be repeatedly retrieved from memory (over and over again). The act of listening to a concept, reading it, or otherwise viewing it a **second** time (once it has been seen before) has a marginal contribution towards memorization of nearly zero. In other words, reading or hearing the same concept from the same source multiple times does not help you memorize it or master it. What helps you memorize it is repeatedly retrieving it from memory, over and over. This works best if you retrieve the concept at spaced intervals. For instance, retrieving a concept from memory once a day, every day, for 10 days, will be far superior to retrieving it 10 times back to back in terms of its effect on long term memory encoding. In my opinion, it's possible that retrieval once a day every day for 10 days may even be superior to 20 or 100 times back to back on the same day.
 
 In addition, memory compounds. It builds on itself. When we are novices, we need to memorize very elementary facts. To give the example of math, once we've memorized the tons and tons of minutiae (adding tables, multiplication tables, which axis is which on the Cartesian plane, order of operations, etc.) we can build on this minutiae and memorize how to solve and graph equations. Once we have that, we might learn how to compute the monthly amortization cost of something based on a specific amortization schedule. It's the same with every field. A chess player starts by memorizing and becoming intimately familiar with the way each piece moves. Before significant progress can be made, they need to be so intimately familiar with at least a few pieces, that the possible moves jump out at them almost involuntarily. Then, chess players build on this knowledge bit by bit until they get to the point that they can glance at a board for 0.5 seconds and memorize the whole board position. This doesn't happen because they have uncannily fast eyes or gifted memories. This happens because when a chess player looks at the board in a professional chess match, they don't see 64 pieces. They see "oh, this is move 5 of the Ruy Lopez opening, white plays." That's pretty easy to remember. We need to get our students to the point that they have as many as possible of these large foundational chunks of computer science which are important to front end programming. It is imperative that we don't waste time with anything that doesn't contribute to this goal.
 
-#The FVI Student
+# The FVI Student
 
 At FVI we serve non-traditional students. Let's face it, if you have incredible grit and desire, you can learn anything on your own from the Khan Academy. You don't need teachers. Our role at FVI is to provide students with a *service*. The scope of this service is twofold: motivation and coaching of mastery.
 
-#Maintaining Motivation
+# Maintaining Motivation
 
 Non-traditional students oftentimes have low self confidence and a very limited growth mindset. It is precisely because of this that one of the most important components of our job is to motivate students. Although it is undoubtedly important to motivate students by offering positive reinforcement and "growth mindset feedback" (feedback that lauds effort rather than achievement), there is another way to motivate students that has a longer lasting effect. If we make our curriculum *fun*, students will have more interest in the subject matter and be more likely to make it past the beginner phase. That is the main reason we use a project based approach to continually challenge students.
 
@@ -44,7 +44,7 @@ It is of utmost importance that anything we do in the classroom and any changes 
 
 In sum, helping students to maintain interest on the subject matter is paramount to our success.
 
-#The FVI Approach to Coaching Mastery
+# The FVI Approach to Coaching Mastery
 
 The biggest pitfall of k-12 and college education in the Western World is its mistaken belief in "mastering" one concept before moving on to the next. The word "mastering" is in quotes because being able to solve many equations of the line does not mean that lines have been mastered. It doesn't even mean the student understands lines or can easily graph them, or that they can even shift a line along either axis or visualize them in R3 (3d space). The reason for this is that this type of sequential learning (emphasizing repetition of the same kinds of exercises over and over before moving on) focuses too much on building the problem-solving schemas but not enough on building the pattern recognition schemas which train the student in recognizing when these problem-solving schemas are called for. In other words, this type of sequential learning focuses too much on the "problem" side of building problem-pattern ability, while giving no attention whatsoever to the "pattern" side of it. The main reason this ends up not working well is that by the time students get to training their pattern recognition abilities, their problem-solving schemas have been long forgotten. This results in very low time efficiency. You have to learn a bunch of things, completely forget them, then start learning the problem patterns and have to learn the forgotten things again from scratch.
 
@@ -60,17 +60,17 @@ And thus, our focus must be on job market value. We need to aim for mastering on
 
 More details pertaining to the reasoning behind and methodology we follow can be understood by reading the [document about attaining peak performance](peak.md)
 
-#Bloom's Taxonomy of Learning Domains
+# Bloom's Taxonomy of Learning Domains
 
 Bloom's Taxonomy of learning domains refers to the steps that students must go through before mastering a concept. The first, most elementary level of learning is being able to regurgitate factoids. Then comes the ability to paraphrase, then apply the knowledge in a slightly different context, and so on. At the end, the last step in the ladder is having understanding so profound that you can make value judgments about which techniques might be better than which others in which situations.
 
 I find Bloom's Taxonomy to be a supremely useful construct but it's level of detail is too high. I believe that the main message of Bloom's Taxonomy of learning is that there is a spectrum between verbatim regurgitation of facts and profound, sage understanding. Being able to apply concepts in new situations or create your own applications based on known concepts is near the middle of the spectrum. This is where we can and must help students get to. By engaging in apprenticeship teaching as we do, we individually nurture each student's problem solving schemas and we show them how we think and how we work so that they learn to emulate our pattern-recognition abilities. By seeing us work, they will be able to see the patterns to how we think and start being able to incorporate some of those patterns into their own thinking.
 
-#How to develop the memory-pattern ability
+# How to develop the memory-pattern ability
 
 Incrementally and simultaneously. We don't work on a million problems first and then work on a million projects. We work in layers, not sections. The intro modules (6 weeks) lays the first layer with all the concepts bombarding the students in quick succession. The next 5 modules repeat the same concepts, adding a few things here and there, with the instructor attentively helping each student master the concepts that each student is lagging behind in. The fact that we do "project based learning" is by no means to be construed as authorization for hands-off instruction. The instructor must be very engaged and assertively impose his/her help on students in order to facilitate the best use of their time. The ultimate goal is that students find some order in which they can get to the higher levels of Blooms in several problem-pattern chunks that pertain to full stack web development.
 
-#Flow
+# Flow
 
 It my opinion that the correct way to learn entails the pursuit of mastery. The pursuit of mastery, in turn, is executed by working just at or near the border of one's comfort zone. The state of elatedness arising from creating something new and substantive, also known as *flow* is only possible if we tackle problems within this range. Problems that are too easy produce little excitement and problems which are too hard end up being too slow to be solved (thus, they produce equal amounts of frustration and joy, and not enough joy per unit time). In either case, the pleasure of flow is not accomplished.
 
@@ -80,7 +80,7 @@ A true master seldom has to look things up, and when they do, it's some minutia 
 
 A beginner can easily spend 900 hours working and practicing but not advance much in skill, since a significant percentage of those 900 hours will be spent being stuck. **A very pivotal part of our job as instructors is to maximize the time each student spends in a state of flow.**
 
-#Grit
+# Grit
   > "Even the most accomplished of experts start out as unserious beginners"  
   > "For now, what I hope to convey is that experts and beginners have different motivational needs. At the start of an endeavor, we need encouragement and freedom to figure out what we enjoy. We need small wins. We need Applause. Yes, we can handle a tincture of criticism and corrective feedback. Yes, we need to practice. But not too much and not too soon. Rush a beginner and you'll bludgeon their budding interest."  
   > Angela Duckworth, Grit
@@ -89,7 +89,7 @@ Although we definitely need to only admit students whose life experience has giv
 
 Grit is not fixed. You can develop grit through a process, the first step of which is to stay motivated long enough to the point where a non-negligible amount of skill has already been developed. Once you can build or design stuff you're excited about, it's likely that enthusiasm will be more self-sustaining. Again, to this end, we design our curriculum with fun in mind. Advanced students can and should be encouraged to add features to any project and make them work across all devices. For this reason, the curriculum and projects should be chosen with the bottom half of the salvageable students in mind - since it's so easy to just add features to a project.
 
-#The Struggle
+# The Struggle
 
 Many professionals, especially ones with technical backgrounds,  mistakenly believe that anything worthwhile must be grueling. This is simply not true.
 
@@ -103,7 +103,7 @@ When it comes to programming, the easiest way to be in the purple or magenta cur
 
 Our job is to get **all** of our viable students (those outside the unsalvageable bottom 10-20%) to stay on the solid black path until that 900 hour mark. This must be accomplished at all costs.
 
-#Developing Effective Assessments
+# Developing Effective Assessments
 
 The key to assessments is frequency and variety. Ask questions on related concepts with different formats (multiple choice, short answer, free response, work problem), and do so frequently. The more frequently you assess, the better.
 
@@ -111,7 +111,7 @@ One idea I'm working with that seems to be producing excellent results is making
 
 The main pitfall to this technique is that if you have questions that are too simple, or too many multiple choice questions, students will study the test rather than the knowledge.
 
-#Developing Effective Lesson Plans
+# Developing Effective Lesson Plans
 
 Although this will vary widely by topic and course, as a rule of thumb we should be spending 25% of the time lecturing and 75% applying (by way of project or assessment).
 

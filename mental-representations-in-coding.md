@@ -1,6 +1,6 @@
-#Mental Representations in Coding
+# Mental Representations in Coding
 
-##Statements.
+## Statements.
 
 Not everyone can easily tell where a statement starts and ends. Statements are like those puzzles where you have a triangle cut into a bunch of triangles and they ask you how many triangles there are.  
 
@@ -13,22 +13,23 @@ Examples of where students trip when recognizing statements:
   3. Angular expressions and promises with dot-chaining long statements.
 
 
-##Primitive values
+## Primitive values
 
-##Reference Values
+## Reference Values
   1. Methods/properties - reference values are complex and can have properties
   2. Prototypes/types - ie different kinds of reference values have different properties
 
-##Functions
+## Functions
   1. Functions that just run code
   2. Functions that take input (parameters)
   3. Functions that return a value (input-output)
 
-##Loops - yes they are still important
+## Loops - yes they are still important
 
-##Algorithms
+## Algorithms
 This is where the chunks start getting bigger. In order to be a good, fast developer, you have to carry at least a few hundred of these in your mind. This small list is not comprehensive but rather a language-agnostic list. Each language/context will have its own chunks you need to create.
   1. Find whether element exists in collection
   2. Find min/max element
   3. Find some kind of aggregation of a collection (sum, average, concatenation of array)
-  4.
+  4. Find most occurring element
+  5. Transform all elements in the array
