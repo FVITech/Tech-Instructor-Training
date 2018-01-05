@@ -8,6 +8,8 @@ We at FVI strive to remain cognizant that there is almost nothing that can truly
 
 * Thinking Fast and Slow by Daniel Kahneman  
 * Make it Stick: The Science of Successful Learning by Peter Brown. [Book Summary Available here](https://docs.google.com/document/d/1FaaTw-0Qfg4_GxCWfmMQHMu8q0OCPjmKgCm4Fdtz74I/edit?usp=sharing).  
+* How We Learn [Partial Book Summary here](how-we-learn.md)
+* Peak by Anders Ericsson [Book Summary Here](peak.md)
 * Resources on [Bloom's Taxonomy of Learning Domains](https://docs.google.com/document/d/1pIBbh5Sv9NxMuOTE42Cy2SlPnB92J8kYe3UK9oCx74I/edit?usp=sharing)  
 * Kirschner, Sweller, Clarke. *Why Minimal Guidance During Instruction Does not Work: An Analysis of the Failure of Constructivist,
 Discovery, Problem-Based, Experiential, and
